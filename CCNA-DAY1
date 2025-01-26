@@ -112,6 +112,8 @@ dial-peer voice 4 pots
    port 0/0/3
 end
 
+!TEST CALL
+!csim start 2203
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 @@@!!IP telephony
